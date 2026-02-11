@@ -9,13 +9,13 @@ PortBIM is a specialized 3D editor and management dashboard designed for creatin
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   
   <!-- 1-ci row: 2 şəkil yan-yana -->
-  <img src="image.png" width="350" />
-  <img src="image-1.png" width="350" />
+  <img src="assets/image.png" width="350" />
+  <img src="assets/image-1.png" width="350" />
 
   <!-- 2-ci row: sağ tərəfdə alt-alta 2 şəkil -->
   <div style="display: flex; flex-direction: column; gap: 10px;">
-    <img src="image-2.png" width="170" />
-    <img src="image-3.png" width="160" />
+    <img src="assets/image-2.png" width="170" />
+    <img src="assets/image-3.png" width="160" />
   </div>
 
 </div>
